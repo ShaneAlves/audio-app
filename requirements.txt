@@ -1,6 +1,0 @@
-pydub
-pyyaml
-sox
-youtube-dl
-=====
-you must folow these instructions
